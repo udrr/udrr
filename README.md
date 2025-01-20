@@ -3,18 +3,21 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 
-hello! my name's underwhite is this is my github account! 🐦‍⬛
+⮪ hello! my name's **underwhite** is this is my github account! 🐦‍⬛
 - i do stuff on github on random times, maybe on nekoweb too. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif">
 
 
 ## what am I doing? 🔖
 - // working on my website 💻
-- // adding blog 🌸
+- // adding blogs 🌸
+- // github pages..? 🐦
 - // school 🏫
-- // trying to find a way to deploy to nekoweb 🤔
+- ~// trying to find a way to deploy to nekoweb 🤔~ *[[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]*
 ## websites
-[underwhite.neocities.org](//underwhite.neocities.org) > [underwhite.neocities.org](//underwhite.neocities.org)
+parent > [repository](https://github.com/udrr/underwhite.neocities.org/) > [follow](https://neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org)
 
 sub-parent > [augar.nekoweb.org](//augar.nekoweb.org) (unfinished)
 
 requests and drawings > [underwhite.straw.page](//underwhite.straw.page)
+
+
