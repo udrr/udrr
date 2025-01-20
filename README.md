@@ -1,16 +1,20 @@
-## Hi there 👋
+# hey there 👋
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flate&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-<!--
-**udrr/udrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+hello! my name's underwhite is this is my github account! 🐦‍⬛
+- i do stuff on github on random times, maybe on nekoweb too. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## what am I doing? 🔖
+- // working on my website 💻
+- // adding blog 🌸
+- // school 🏫
+- // trying to find a way to deploy to nekoweb 🤔
+## websites
+[underwhite.neocities.org](//underwhite.neocities.org) > [underwhite.neocities.org](//underwhite.neocities.org)
+
+sub-parent > [augar.nekoweb.org](//augar.nekoweb.org) (unfinished)
+
+requests and drawings > [underwhite.straw.page](//underwhite.straw.page)
