@@ -7,12 +7,11 @@
 - i do stuff on github on random times, maybe on nekoweb too. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif">
 
 
-## what am I doing? 🔖
+## what am I doing? 
 - // working on my website 💻
-- // adding blogs 🌸
-- // github pages..? 🐦
-- // school 🏫
-- ~// trying to find a way to deploy to nekoweb 🤔~ *[[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]*
+- // adding blogs
+- // school
+- ~// trying to find a way to deploy to nekoweb ~ *[[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]*
 ## websites
 parent > [repository](https://github.com/udrr/underwhite.neocities.org/) > [follow](https://neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org)
 
