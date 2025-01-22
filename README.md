@@ -11,7 +11,7 @@
 - // working on my website 💻
 - // adding blogs
 - // school
-- ~// trying to find a way to deploy to nekoweb ~ *[[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]*
+- // ~trying to find a way to deploy to nekoweb~ - [[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]
 ## websites
 parent > [repository](https://github.com/udrr/underwhite.neocities.org/) > [follow](https://neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org)
 
