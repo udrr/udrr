@@ -4,6 +4,7 @@
 
 
 ⮪ hello! my name's **underwhite** is this is my github account! 🐦‍⬛
+I'm pretty new here, so any advice on contribing stuff or just getting started would really help!
 
 > Background context: I'm a self-taught **HTML/CSS/JS/Git coder**, I love kirby.. and that's about it. And I have a site on neocities which I care about.
 - i do stuff on github on random times, maybe on nekoweb too. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif">
