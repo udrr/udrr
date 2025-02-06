@@ -20,20 +20,20 @@ I'm **new** to Github, so any advice on being active via contributing to project
 
 ![Underwhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=udrr&show_icons=true&theme=transparent&border_radius=0&text_color=fff&title_color=0969da)
 
-## things i can't do yet
+## things i can't do yet 🫥
 - squash commits, (failed horribly)
 - github pages, (didn't work)
 
-## what am I doing? 
+## what am I doing? 😕
 - // working on my website 💻
 - // adding blogs
 - // school
 - // ~trying to find a way to deploy to nekoweb~ - [[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]
-## websites
-parent > [repository](https://github.com/udrr/underwhite.neocities.org/) > [follow](https://neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org)
+## websites ☄️
+parent > [repository](https://github.com/udrr/underwhite.neocities.org/) > [follow](https://neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org) 💙
 
-sub-parent > [augar.nekoweb.org](//augar.nekoweb.org) (unfinished)
+sub-parent > [augar.nekoweb.org](//augar.nekoweb.org) (unfinished) 🧡
 
-requests and drawings > [underwhite.straw.page](//underwhite.straw.page)
+requests and drawings > [underwhite.straw.page](//underwhite.straw.page) 🩶
 
 
