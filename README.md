@@ -4,10 +4,19 @@
 
 
 ⮪ hello! my name's **underwhite** is this is my github account! 🐦‍⬛
-I'm pretty new here, so any advice on contribing stuff or just getting started would really help!
+## I'm currently learning: 🌱
+- // Python 🐍
+- // JavaScript ☕
+- // TypeScript 🖱️
+- // CSS 🍫
+- // SCSS 🍫*️⃣
+- // MarkDown 🔽
 
-> Background context: I'm a self-taught **HTML/CSS/JS/Git coder**, I love kirby.. and that's about it. And I have a site on neocities which I care about.
-- i do stuff on github on random times, maybe on nekoweb too. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif">
+I use Github to version control and share open-source projects!
+
+I also have a [personal website I update often](https://github.com/udrr/underwhite.neocities.org) and right now may be developing a **digital moving pet** similar to [Desktop Goose](https://samperson.itch.io/desktop-goose) using mostly JavaScript and spritesheets, and maybe some other coding languages!
+
+I'm **new** to Github, so any advice on being active via contributing to projects or pull requests would be helpful. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif">
 
 ![Underwhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=udrr&show_icons=true&theme=transparent&border_radius=0&text_color=fff&title_color=0969da)
 
