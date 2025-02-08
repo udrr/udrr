@@ -25,8 +25,9 @@ I'm **new** to Github, so any advice on being active via contributing to project
 - github pages, (didn't work)
 
 ## what am I doing? 😕
-- // working on my website 💻
-- // adding blogs
+- // working on my website
+- // python coding
+- // adding blogs soon (maybe next year idk)
 - // school
 - // ~trying to find a way to deploy to nekoweb~ - [[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]
 ## websites ☄️
