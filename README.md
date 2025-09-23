@@ -12,9 +12,9 @@
 - // SCSS 🍫*️⃣
 - // MarkDown 🔽
 
-I use Github to version control and share open-source projects!
+I use _Github_ to version control and share open-source projects!
 
-I also have a [personal website I update often](https://github.com/udrr/underwhite.neocities.org) and right now may be developing a **digital moving pet** similar to [Desktop Goose](https://samperson.itch.io/desktop-goose) using mostly JavaScript and spritesheets, and maybe some other coding languages!
+I also have a [personal website I update at least once a week](https://github.com/udrr/underwhite.neocities.org) and right now may be developing a **digital moving pet** similar to [Desktop Goose](https://samperson.itch.io/desktop-goose) using mostly JavaScript and spritesheets, and maybe some other coding languages! I don't really know :P
 
 I'm **new** to Github, so any advice on being active via contributing to projects or pull requests would be helpful. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif">
 
@@ -32,8 +32,6 @@ I'm **new** to Github, so any advice on being active via contributing to project
 - // ~trying to find a way to deploy to nekoweb~ - [[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]
 ## websites ☄️
 parent > [repository](https://github.com/udrr/underwhite.neocities.org/) > [follow](https://neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org) 💙
-
-sub-parent > [augar.nekoweb.org](//augar.nekoweb.org) (unfinished) 🧡
 
 requests and drawings > [underwhite.straw.page](//underwhite.straw.page) 🩶
 
