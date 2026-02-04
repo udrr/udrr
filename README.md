@@ -20,7 +20,7 @@ I also have a [personal website I update at least once a week](https://github.co
 
 I'm **new** to Github, so any advice on being active via contributing to projects or pull requests would be helpful. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif">
 
-![Underwhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=udrr&show_icons=true&theme=transparent&border_radius=0&text_color=fff&title_color=0969da)
+~~![Underwhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=udrr&show_icons=true&theme=transparent&border_radius=0&text_color=fff&title_color=0969da)~~
 
 ## things i can't do yet 🫥
 - squash commits, (failed horribly)
