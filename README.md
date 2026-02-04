@@ -3,7 +3,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 
-⮪ hello! my name's **underwhite** is this is my github account! 🐦‍⬛
+⮪ hello! my name's **underwhite** is this is my github account! 🐦‍⬛ 
+I'm an amateur writer, composer, coder and artist, and have been composing music since 2024 and had started my site in the same year! :D
 ## I'm currently learning: 🌱
 - // Python 🐍
 - // JavaScript ☕
@@ -11,6 +12,7 @@
 - // CSS 🍫
 - // SCSS 🍫*️⃣
 - // MarkDown 🔽
+- // Watercolor 🎨
 
 I use _Github_ to version control and share open-source projects!
 
@@ -26,6 +28,7 @@ I'm **new** to Github, so any advice on being active via contributing to project
 
 ## what am I doing? 😕
 - // working on my website
+- // trying to learn how to sound design better
 - // python coding
 - // adding blogs soon (maybe next year idk)
 - // school
