@@ -3,9 +3,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 
-⮪ Hello. Name's **Underwhite**, and this is my github account. I use _Github_ to version control and share open-source projects.
+⮪ Hello. The name's **Underwhite**, and this is my GitHub account. I use _GitHub_ to version control and share open-source projects.
 I'm an amateur writer and artist, composing music and making my [site](https://github.com/udrr/underwhite.neocities.org) since 2024.<br>
-I'm new to Github, so any advice on being active via contributing to projects or pull requests would be helpful. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif"><br>
+I'm new to GitHub, so any advice on being active via contributing to projects or pull requests would be helpful. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif"><br>
 ```I may be developing a digital moving pet similar to Desktop Goose using mostly JavaScript and sprite sheets. I dunno. :P```
 ## I'm currently learning...
 - // Python 
@@ -18,8 +18,8 @@ I'm new to Github, so any advice on being active via contributing to projects or
 ~~![Underwhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=udrr&show_icons=true&theme=transparent&border_radius=0&text_color=fff&title_color=0969da)~~
 
 ## things i can't do yet 🫥
-- squash commits, (failed horribly)
-- github pages, (didn't work)
+- Squash commits, (failed horribly)
+- GitHub Pages, (didn't work)
 
 ## what am I doing? 😕
 - // Working on my website
@@ -28,8 +28,8 @@ I'm new to Github, so any advice on being active via contributing to projects or
 - // Adding blogs soon (maybe next year idk)
 - // ~Trying to find a way to deploy to Nekoweb~ - [[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]
 ## websites ☄️
-Parent > [repository](https://github.com/udrr/underwhite.neocities.org/) > [follow](https://neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org) 
+// Parent > [repository](https://github.com/udrr/underwhite.neocities.org/) > [follow](https://neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org) 
 
-Requests and Drawings > [underwhite.straw.page](//underwhite.straw.page) 
+// Requests and Drawings > [underwhite.straw.page](//underwhite.straw.page) 
 
 
