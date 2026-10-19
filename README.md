@@ -1,24 +1,24 @@
 <pre>
                                        .((\=.
              .--.                   .-/    ,(,
-   <a href="https://github.com/udrr/underwhite.neocities.org">.---|</a>__|           .-.     |~~~|  |\      y
-.--<a href="https://github.com/udrr/underwhite.neocities.org">|===|</a>--|_          |_|     |~~~|--. `.__,'
-|  <a href="https://github.com/udrr/underwhite.neocities.org">|===|</a>  |'\     .---!~|  .--|   |--|/  \\\
-|%%<a href="https://github.com/udrr/underwhite.neocities.org">| u |</a>  |.'\    |===| |--|%%|   |  |/|  | \`----.
-|%%<a href="https://github.com/udrr/underwhite.neocities.org">| n |</a>  |\.'\   |   | |__|  |   |  ||\  \  |___.'_
-|  <a href="https://github.com/udrr/underwhite.neocities.org">| d |</a>  | \  \  |===| |==|  |   |  ||,\  \-+-._.' )_
-|  <a href="https://github.com/udrr/underwhite.neocities.org">| e |</a>__|  \.'\ |   |_|__|  |~~~|__|\  \  \      /  \
-|  <a href="https://github.com/udrr/underwhite.neocities.org">|===|</a>--|   \.'\|===|~|--|%%|~~~|--|`--`-'---^-'    \
-^--<a href="https://github.com/udrr/underwhite.neocities.org">^---'</a>--^    `-'`---^-^--^--^---'--'^-^--^--^---'--'`
+   <a href="//github.com/udrr/underwhite.neocities.org">.---|</a>__|           .-.     |~~~|  |\      y
+.--<a href="//github.com/udrr/underwhite.neocities.org">|===|</a>--|_          |_|     |~~~|--. `.__,'
+|  <a href="//github.com/udrr/underwhite.neocities.org">|===|</a>  |'\     .---!~|  <a href="//github.com/udrr/time-trigger-widget">.--|</a>   |--|/  \\\
+|%%<a href="//github.com/udrr/underwhite.neocities.org">| u |</a>  |.'\    |===| |--<a href="//github.com/udrr/time-trigger-widget">|%%|</a>   |  |/|  | \`----.
+|%%<a href="//github.com/udrr/underwhite.neocities.org">| n |</a>  |\.'\   |   | |__<a href="//github.com/udrr/time-trigger-widget">|T |</a>   |  ||\  \  |___.'_
+|  <a href="//github.com/udrr/underwhite.neocities.org">| d |</a>  | \  \  |===| |==<a href="//github.com/udrr/time-trigger-widget">|T |</a>   |  ||,\  \-+-._.' )_
+|  <a href="//github.com/udrr/underwhite.neocities.org">| e |</a>__|  \.'\ |   |_|__<a href="//github.com/udrr/time-trigger-widget">|T |</a>~~~|__|\  \  \      /  \
+|  <a href="//github.com/udrr/underwhite.neocities.org">|===|</a>--|   \.'\|===|~|--<a href="//github.com/udrr/time-trigger-widget">|%%|</a>~~~|--|`--`-'---^-'    \
+^--<a href="//github.com/udrr/underwhite.neocities.org">^---'</a>--^    `-'`---^-^--<a href="//github.com/udrr/time-trigger-widget">^--^</a>---'--'^-^--^--^---'--'`
 </pre>
 # Hey there!
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flate&logo=visual-studio-code&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Windows 11](//img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white) ![Firefox](//img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white) ![Git](//img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Visual Studio Code](//img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flate&logo=visual-studio-code&logoColor=white)
+![HTML5](//img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](//img.shields.io/badge/css3-%231572B6.svg?style=badge&logo=css3&logoColor=white) ![JavaScript](//img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 
 ⮪ Hello. The name's **Underwhite**, and this is my GitHub account. I use _GitHub_ to version control and share open-source projects.
-I'm an amateur writer and artist, composing music and making my [site](https://github.com/udrr/underwhite.neocities.org) since 2024.<br>
-I'm new to GitHub, so any advice on being active via contributing to projects or pull requests would be helpful. <img height="30px" width="30px" src="https://github.com/images/mona-whisper.gif"><br>
+I'm an amateur writer and artist, composing music and making my [site](//github.com/udrr/underwhite.neocities.org) since 2024.<br>
+I'm new to GitHub, so any advice on being active via contributing to projects or pull requests would be helpful. <img height="30px" width="30px" src="//github.com/images/mona-whisper.gif"><br>
 ```I may be developing a digital moving pet similar to Desktop Goose using mostly JavaScript and sprite sheets. I dunno. :P```
 ## I'm currently learning...
 - // Python 
@@ -28,7 +28,7 @@ I'm new to GitHub, so any advice on being active via contributing to projects or
 - // SCSS 
 - // MarkDown
   
-~~![Underwhite's GitHub stats](https://github-readme-stats.vercel.app/api?username=udrr&show_icons=true&theme=transparent&border_radius=0&text_color=fff&title_color=0969da)~~
+~~![Underwhite's GitHub stats](//github-readme-stats.vercel.app/api?username=udrr&show_icons=true&theme=transparent&border_radius=0&text_color=fff&title_color=0969da)~~
 
 ## things i can't do yet 🫥
 - Squash commits, (failed horribly)
@@ -39,9 +39,9 @@ I'm new to GitHub, so any advice on being active via contributing to projects or
 - // Trying to learn how to sound design better
 - // Python coding
 - // Adding blogs soon (maybe next year idk)
-- // ~Trying to find a way to deploy to Nekoweb~ - [[+](https://github.com/marketplace/actions/deploy-to-nekoweb)]
+- // ~Trying to find a way to deploy to Nekoweb~ - [[+](//github.com/marketplace/actions/deploy-to-nekoweb)]
 ## websites ☄️
-// Parent > [repository](https://github.com/udrr/underwhite.neocities.org/) > [follow](https://neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org) 
+// Parent > [repository](//github.com/udrr/underwhite.neocities.org/) > [follow](//neocities.org/site/underwhite) > [underwhite.neocities.org](//underwhite.neocities.org) 
 
 // Requests and Drawings > [underwhite.straw.page](//underwhite.straw.page) 
 
