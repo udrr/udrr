@@ -32,7 +32,7 @@ I'm new to GitHub, so any advice on being active via contributing to projects or
 
 ## things i can't do yet 🫥
 - Squash commits, (failed horribly)
-- GitHub Pages, (didn't work)
+~~- GitHub Pages, (didn't work)~~ (I can do that now! Yay!)
 
 ## what am I doing? 😕
 - // Working on my website
